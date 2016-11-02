@@ -1,4 +1,4 @@
-
+Vamos a dejar el trabajo asi con las modificaciones hechas por los dos alumnos, borro el ultimo parrafo porque me equivoque al decir que era u commit y en realidad era una modificacion del archivo
 Esta es la historia de dos alumnos en la clase de entornos de 
 desarrollo, intentanto hacer el ejercicio.Creo esta historia para que luego mi compañero la descargue 
 utilizando un git clone.
@@ -11,4 +11,5 @@ Este es el tercer parrafo de la historia, espero que sigamos aprendiendo con tod
 
 Continuo  la historia despues de mucho tiempo de  solucion de dudas ahora ya puedo continuar para poder terminar la historia. alumno a 
 
-Este es mi ultimo commit hecho por alumnoB
+
+

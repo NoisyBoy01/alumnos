@@ -7,3 +7,5 @@ Estoy haciendo mi primera modificacion del archivo para que ahora me compañero 
 Este es el segundo parrafo que se añade a la historia, espero que todo salga bien en la creación de este nuevo parrafo.
 
 Este es el tercer parrafo de la historia, espero que sigamos aprendiendo con todo lo relacionado con lo que es git.
+
+Continuo  la historia despues de mucho tiempo de  solucion de dudas ahora ya puedo continuar para poder terminar la historia. alumno a 

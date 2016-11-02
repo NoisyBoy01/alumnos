@@ -1,3 +1,4 @@
+
 Esta es la historia de dos alumnos en la clase de entornos de 
 desarrollo, intentanto hacer el ejercicio.Creo esta historia para que luego mi compañero la descargue 
 utilizando un git clone.
@@ -7,3 +8,7 @@ Estoy haciendo mi primera modificacion del archivo para que ahora me compañero 
 Este es el segundo parrafo que se añade a la historia, espero que todo salga bien en la creación de este nuevo parrafo.
 
 Este es el tercer parrafo de la historia, espero que sigamos aprendiendo con todo lo relacionado con lo que es git.
+
+Continuo  la historia despues de mucho tiempo de  solucion de dudas ahora ya puedo continuar para poder terminar la historia. alumno a 
+
+Este es mi ultimo commit hecho por alumnoB

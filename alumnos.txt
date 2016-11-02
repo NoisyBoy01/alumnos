@@ -1,3 +1,6 @@
 Esta es la historia de dos alumnos en la clase de entornos de 
 desarrollo, intentanto hacer el ejercicio.Creo esta historia para que luego mi compañero la descargue 
 utilizando un git clone.
+
+Estoy haciendo mi primera modificacion del archivo para que ahora me compañero siga con nuestra historia.Alummno A
+
